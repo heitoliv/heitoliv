@@ -61,12 +61,34 @@ Implementação completa de:
 
 ---
 
+### ⚙️ **BalanceSys**
+Sistema inteligente voltado para:
+- Gestão de processos  
+- Análise operacional  
+- Estruturação baseada em boas práticas de engenharia de software  
+➡️ *Automação + arquitetura limpa + reuso de software*
+
+🔗 https://github.com/heitoliv/BalanceSys
+
+---
+
+### 🌱 **PlantDiseaseML — Visão Computacional para Detecção de Doenças em Plantas**
+Projeto de IA que aplica:
+- Redes neurais convolucionais (CNN)
+- Classificação de doenças em folhas
+- Dataset real de agricultura
+- Pipeline de pré-processamento, treino e validação  
+➡️ *Combinação de IA + visão computacional + impacto ambiental*
+
+🔗 https://github.com/heitoliv/PlantDiseaseML
+
+---
 
 ## 📫 Como me encontrar
 
 📧 **Email:** oliheitor189@gmail.com  
-🔗 **LinkedIn:** *www.linkedin.com/in/heitor-oliveira-534536295*  
-  
+🔗 **LinkedIn:** https://www.linkedin.com/in/heitor-oliveira-534536295  
+
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
