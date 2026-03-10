@@ -21,7 +21,7 @@
 
 ### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ### ⚙️ Frameworks e Bibliotecas
@@ -61,17 +61,6 @@ Implementação completa de:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heitoliv&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitoliv&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 ## 📫 Como me encontrar
 
